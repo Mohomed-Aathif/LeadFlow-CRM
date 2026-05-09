@@ -357,22 +357,6 @@ Add your Loom / YouTube / Google Drive link here
 
 ---
 
-# Deployment
-
-Frontend:
-
-```txt
-Add deployed frontend URL
-```
-
-Backend:
-
-```txt
-Add deployed backend URL
-```
-
----
-
 # Author
 
 Mohomed Aathif
