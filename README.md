@@ -347,16 +347,6 @@ Potential future enhancements include:
 
 ---
 
-# Demo Video
-
-Demo video link:
-
-```txt
-Add your Loom / YouTube / Google Drive link here
-```
-
----
-
 # Author
 
 Mohomed Aathif
